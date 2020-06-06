@@ -1,7 +1,7 @@
-#FaceMaskDetector
-#Created by S. Jahnavi Prasad
-#(https://github.com/jahnavi-prasad)
-#Building a simple facemask detector using Deep Learning(Keras) and OpenCV
+### FaceMaskDetector
+* Created by S. Jahnavi Prasad
+* (https://github.com/jahnavi-prasad)
+* Building a simple facemask detector using Deep Learning(Keras) and OpenCV
 
 ### How to use:
 * Install the packages in the requirements.txt file
